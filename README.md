@@ -16,6 +16,7 @@ Simple android app that fetches list of NYC schools and can display SAT perfoman
 - Retrofit
 - Room database
 
+### Demo 
 ---
 
 
