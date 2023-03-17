@@ -1,5 +1,15 @@
 # NycSchoolsApp
 
+## Tech stack:
+Kotlin 
+Jetpack Compose
+Jetpack navigation
+viewModels
+Hilt
+Retrofit
+Room database
+
+
 
 | Success | Flipped | Error Screen |
 |:-------:|:-------:|:------------:|
