@@ -1,5 +1,12 @@
 # NycSchoolsApp
 
+Simple android app that fetches list of NYC schools and can display SAT perfomance data and description of the school. 
+
+## API:
+Schools list -> https://data.cityofnewyork.us/resource/7crd-d9xh.json
+SAT data -> https://data.cityofnewyork.us/resource/f9bf-2cp4.json
+
+
 ## Tech stack:
 - Kotlin 
 - Jetpack Compose
