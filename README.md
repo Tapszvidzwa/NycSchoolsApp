@@ -1,13 +1,13 @@
 # NycSchoolsApp
 
 ## Tech stack:
-Kotlin 
-Jetpack Compose
-Jetpack navigation
-viewModels
-Hilt
-Retrofit
-Room database
+- Kotlin 
+- Jetpack Compose
+- Jetpack navigation
+- ViewModels
+- Hilt
+- Retrofit
+- Room database
 
 
 
