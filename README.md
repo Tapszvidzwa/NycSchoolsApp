@@ -8,14 +8,15 @@ Simple android app that fetches list of NYC schools and can display SAT perfoman
 
 
 ## Tech stack:
-``` - Kotlin 
+- Kotlin 
 - Jetpack Compose
 - Jetpack navigation
 - ViewModels
 - Hilt
 - Retrofit
-- Room database ```
+- Room database
 
+---
 
 
 | Success | Flipped | Error Screen |
